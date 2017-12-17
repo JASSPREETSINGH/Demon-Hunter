@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - hero
+  - floor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - enemy
+  - enemyBullet
+  - player
+  - playerBullet
+  - Energy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 988671179
+    locked: 0
+  - name: layer1
+    uniqueID: 887070721
+    locked: 0
+  - name: player
+    uniqueID: 3777334811
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
